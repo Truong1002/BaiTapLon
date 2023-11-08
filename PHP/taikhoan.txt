@@ -1,6 +1,0 @@
-taikhoan: admin
-matkhau: 1
-
-user:
-taikhoan: duonga6
-matkhau: 1

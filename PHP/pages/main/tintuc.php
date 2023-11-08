@@ -1,1 +1,0 @@
-<div>Tin tức</div>
